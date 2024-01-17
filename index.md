@@ -15,7 +15,7 @@ hero:
       link: /markdown-examples
     - theme: alt
       text: Contact
-      link: /api-examples
+      link: /contact
 
 features:
   - title: Massages
