@@ -4,23 +4,25 @@ layout: home
 
 hero:
   name: "BeBalance"
-  text: "BeBalance website"
   tagline: Be Balance has been created to inspire people to improve their lifestyle, making them healthier, happier and more conscious…
+  image:
+    src: http://bebalance.crava.ch/wp-content/uploads/2016/04/Logo-BBalance-White-150x150.png
+    alt: BeBalance logo
 
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: About
       link: /markdown-examples
     - theme: alt
-      text: API Examples
+      text: Contact
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: Massages
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: Naturopathy
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Academy
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
