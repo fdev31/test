@@ -5,7 +5,8 @@ layout: home
 hero:
   name: "BeBalance"
   text: "BeBalance website"
-  tagline: My great project tagline
+  tagline: Be Balance has been created to inspire people to improve their lifestyle, making them healthier, happier and more conscious…
+
   actions:
     - theme: brand
       text: Markdown Examples
